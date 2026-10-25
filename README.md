@@ -1,3 +1,7 @@
+### FSM Design and Signal Explanation
+
+See the [FSM and Signal Documentation](docs/fsm-and-signals.md) for the state diagram, transition logic, timing calculations, and signal descriptions.
+
 ## Simulation Results
 
 ### UART Transmitter Waveform
