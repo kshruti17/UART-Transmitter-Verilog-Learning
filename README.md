@@ -25,7 +25,7 @@ I studied the **8-N-1 frame format**:
 
 The timing diagram helped me understand the relationship between the FSM states, system clock, serial TX output, and individual data bits.
 
-![UART Transmitter Timing Diagram](UART_timing_diagram.png)
+![UART_timing_diagram](UART_timing_diagram.png)
 
 **What I learned:**
 - How a complete UART frame consists of one start bit, eight data bits, and one stop bit.
@@ -45,7 +45,7 @@ The timing diagram helped me understand the relationship between the FSM states,
 
 I learned how to divide a digital design into states and use state transitions to control the sequence of operations.
 
-![UART Transmitter FSM State Diagram](FSM_state_diagram.png)
+![FSM_state_diagram](FSM_state_diagram.png)
 
 The transmitter uses four states:
 
