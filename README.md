@@ -1,2 +1,3 @@
-# UART-Transmitter-Verilog-Learning
-Step-by-step UART transmitter design in Verilog HDL, covering fundamentals, baud-rate calculations, FSM design, RTL coding, testbench development, and waveform simulation.
+# Waveform screenshots
+
+Add your EPWave screenshot here, for example `uart_tx_full_frame.png`, then update the image link in the root README.
